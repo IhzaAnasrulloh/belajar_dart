@@ -4,5 +4,7 @@ void main(List<String> arguments) {
   print('Siapa Coach Terbaik:!!');
 
   String namaLengkap="Aryaaaaaaaaaaaaaaaaa";
-  print(namaLengkap);
+  int umur = 15;
+  double tinggiBadan = 2,00;
+  bool aktif = true;
 }
